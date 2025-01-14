@@ -1,0 +1,87 @@
+body{
+    background-image: url(zinc-1498-mm-architextures.jpg);
+}
+
+.közép{
+    margin: auto;
+}
+header{
+    max-width: 1000px;
+    background-color: rgba(250, 235, 215, 0.25);
+    margin: auto;
+    min-height: 100px;
+}
+section{
+    max-width: 1000px;
+    background-color: rgba(250, 235, 215, 0.25);
+    margin: auto;
+}
+table{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+.td{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+}
+.img{
+    max-block-size: 100px;
+    float: right;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.kepek{
+    max-height: 200px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+}
+hr{
+    max-width: 750px;
+}
+button{
+    width: 200px;
+    height: 150px;
+    background-color: rgba(25, 79, 255, 0.63);
+    text-align: center;
+    margin: auto;
+    display: block; margin: auto;
+}
+.orakep{
+    max-width: 180px;
+    max-height: 150px;
+    display: block; margin: auto;
+}
+
+.text{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul{
+    list-style: inside;
+
+}
+footer{
+    max-width: 1000px;
+    background-color: rgba(250, 235, 215, 0.25);
+    margin: auto;
+}
+
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: red;
+}
